@@ -3,5 +3,5 @@ export interface Product{
     categoryId:number;
     productName:string;
     unitPrice:number;
-    unitInStock:number;
+    unitsInStock:number;
 }
